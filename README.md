@@ -1,2 +1,2 @@
 # gis-blog
-This blog is about thing I find interesting in GIS.
+This blog is about things I find interesting in GIS.
